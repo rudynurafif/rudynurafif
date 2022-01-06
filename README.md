@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development, Digital Marketing, and Data Science
 - 🌱 I’m currently learning all of them :D
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me --> rudynurafif@gmail.com
+- 📫 How to reach me --> rudynurafif.github.io
