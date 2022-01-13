@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rudynurafif
 - 👀 I’m interested in Web Development, Digital Marketing, and Data Science
-- 🌱 I’m currently learning all of them :D
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me --> https://rudynurafif.github.io/
