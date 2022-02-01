@@ -2,5 +2,5 @@
 - 👀 I’m interested in Web Development, Digital Marketing, and Data Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to start a career in Web Development and currently looking for a job
-- 📫 How to reach me --> https://rudynurafif.github.io/
+- 📫 How to reach me --> https://rudynurafif.com/
 - https://wakatime.com/@rudynurafif
