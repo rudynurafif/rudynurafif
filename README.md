@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to start a career in Web Development and currently looking for a job
 - 📫 How to reach me --> https://rudynurafif.com/
-- https://wakatime.com/@rudynurafif
+- I start learn coding from mid of 2020, but it's what recorded https://wakatime.com/@rudynurafif
