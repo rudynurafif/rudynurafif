@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rudynurafif
 - 👀 I’m interested in Web Development, Digital Marketing, and Data Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to start a career in Web Development and currently looking for a job
 - 📫 How to reach me --> https://rudynurafif.com/
 - I start coding from mid of 2020, but it's what recorded https://wakatime.com/@rudynurafif
