@@ -3,4 +3,4 @@
 - 🌱 I’m currently advancing Javascript (React.js, Next.js, Vue.js, React Native), PHP (Laravel), Dart (Flutter), and Figma
 - 💞️ I’m looking to grow my career in Full Stack Development and currently looking for a job as a Junior-Middle Developer
 - 📫 How to reach me --> https://rudynurafif.com/
-- My Wakatime Coding Record https://wakatime.com/@rudynurafif
+- 🕒 My Wakatime Coding Record https://wakatime.com/@rudynurafif
