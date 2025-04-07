@@ -4,4 +4,4 @@
 - 💞️ I’m looking to grow my career in Full Stack Development and currently looking for a job as a Junior-Middle Developer
 - 📫 How to reach me --> https://rudynurafif.vercel.app/
 - 🕒 My Wakatime Coding Record https://wakatime.com/@rudynurafif
-- GitLab https://gitlab.com/rudynurafif
+- 🦊 GitLab https://gitlab.com/rudynurafif
