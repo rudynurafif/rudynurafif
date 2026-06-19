@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rudynurafif
 - 👀 I’m interested in Web - Mobile App Development and UI/UX Design
 - 🌱 I’m currently advancing Javascript (React.js, Next.js, React Native, Vue.js), Flutter, Go-lang, PHP Laravel, and Figma
-- 💞️ I’m looking to grow my career in Full Stack Development and currently looking for a job as a Junior-Middle Developer
+- 💞️ I’m looking to grow my career in Full Stack Development and currently looking for a job as a Middle-level Developer
 - 📫 How to reach me --> https://rudynurafif.vercel.app/
 - 🕒 My Wakatime Coding Record https://wakatime.com/@rudynurafif
 - 🦊 GitLab https://gitlab.com/rudynurafif
